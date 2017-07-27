@@ -1,4 +1,4 @@
-# Movie_Trailer-website
+# Movie Trailer website
 
 **Required Libraries and Dependencies**
 
